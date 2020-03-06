@@ -8,20 +8,6 @@ The project is divided in three parts
 
 *Note You can find some notes on how individual parts were implemented in the docs directory*
 
-## Directory tree
-
-.
-├── docs
-│   ├── results.pdf
-│   └── Terrain generation and roughness.pdf
-├── Robota
-│   └── Robota.pde
-│   └── scheduler.py
-├── spring
-│   └── spring.pde
-└── Valley
-    └── Valley.pde
-
 # Dependencies
 
 Processing => 3.2 [processing.org](processing.org)
@@ -41,5 +27,12 @@ Please look at scheduler.py
 # Citation
 
 ```latex
-Sharma, A (as16542@my.bristol.ac.uk), Hauser, H (helmut.hauser@bristol.ac.uk) and Hauert, S (sabine.hauert@bristol.ac.uk) 2019. Morphologically Communicating Swarms. 
+@misc{OpenSourceSurvey17,
+  author = {GitHub, Inc.},
+  title = {Open Source Survey},
+  year = {2017},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/github/open-source-survey}}
+}
 ```
