@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/245473936.svg)](https://zenodo.org/badge/latestdoi/245473936)
+
 # Instructions
 
 The project is divided in three parts
