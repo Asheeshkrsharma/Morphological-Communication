@@ -29,12 +29,14 @@ Please look at scheduler.py
 # Citation
 
 ```latex
-@misc{OpenSourceSurvey17,
-  author = {GitHub, Inc.},
-  title = {Open Source Survey},
-  year = {2017},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/github/open-source-survey}}
+@software{asheesh_sharma_2020_3699877,
+  author={Asheesh Sharma},
+  title={Asheeshkrsharma/Morphological-Communication 1.0.0},
+  month=mar,
+  year=2020,
+  publisher={Zenodo},
+  version={1.0.0},
+  doi={10.5281/zenodo.3699877},
+  url={https://doi.org/10.5281/zenodo.3699877}
 }
 ```
