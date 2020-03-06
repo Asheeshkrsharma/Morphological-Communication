@@ -40,12 +40,6 @@ Please look at scheduler.py
 
 # Citation
 
-Note: You are not yet allowed to release or redistribute this code since, we are in a process of publishing a paper which uses this code. For your dissertation:
-
-If you use this code, please cite us as follows.
-
 ```latex
 Sharma, A (as16542@my.bristol.ac.uk), Hauser, H (helmut.hauser@bristol.ac.uk) and Hauert, S (sabine.hauert@bristol.ac.uk) 2019. Morphologically Communicating Swarms. 
 ```
-
-In the case that you need to share this or any of its modified form with anyone, please inform Helmut, Sabine and me first.
